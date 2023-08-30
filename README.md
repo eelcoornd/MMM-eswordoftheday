@@ -2,7 +2,7 @@
 
 This an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror).
 
-It presents a spanish word with an english definition, as well as two spanish/english example sentences.  Data is scraped from [SpanishDict!](https://www.spanishdict.com/wordoftheday)  No account is required
+It presents a spanish word with an english definition, as well as one spanish/english example sentences.  Data is scraped from [SpanishDict!](https://www.spanishdict.com/wordoftheday)  No account is required
 
 forked from: https://github.com/mumblebaj/MMM-eswordoftheday which was forked from: https://github.com/daniel-windsor/MMM-eswordoftheday
 
