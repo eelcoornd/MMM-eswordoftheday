@@ -10,14 +10,14 @@ module.exports = NodeHelper.create({
       axios.get(url).then(({ data }) => {
         const $ = cheerio.load(data);
   
-        const container = $(".gl1Y0YQP");
+        const container = $(".cN01C0v6");
 
         const translationData = [];
 
         for(let i = 0; i < container.length; i++) {
           const currentContainer = container[i];
-          const container1 = $(".xiQBRZra")[i];
-          const container2 = $(".KkXPxEB8")[i];
+          const container1 = $(".S59euzHw")[i];
+          const container2 = $(".al0K82xM")[i];
 
           // Get Spanish Word
           const word = $(currentContainer).find("h3");
